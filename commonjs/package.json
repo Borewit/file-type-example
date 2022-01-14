@@ -1,0 +1,13 @@
+{
+  "name": "file-type-example-commonjs",
+  "version": "0.1.0",
+  "description": "Example showing how to use file-type in CommonJS module",
+  "main": "index.js",
+  "author": "Borewit",
+  "license": "MIT",
+  "type": "commonjs",
+  "private": false,
+  "dependencies": {
+    "file-type": "^17.1.1"
+  }
+}
