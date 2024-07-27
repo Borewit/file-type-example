@@ -1,0 +1,35 @@
+{
+  "name": "file-type-example-esm",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.ts",
+  "type": "module",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "https://github.com/Borewit/file-type-example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Borewit/file-type-example.git"
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "Borewit",
+    "url": "https://github.com/Borewit"
+  },
+  "contributors": [],
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "dependencies": {
+    "file-type": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "typescript": "^5.5.4"
+  }
+}
