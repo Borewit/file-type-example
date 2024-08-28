@@ -8,7 +8,7 @@
   "type": "commonjs",
   "private": false,
   "dependencies": {
-    "file-type": "^17.1.1"
+    "file-type": "^19.4.1"
   },
   "devDependencies": {
     "@types/node": "^17.0.21",
@@ -16,6 +16,8 @@
   },
   "scripts": {
     "build": "npm run compile",
-    "compile": "tsc"
-  }
+    "compile": "tsc",
+    "start": "node index.js"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
