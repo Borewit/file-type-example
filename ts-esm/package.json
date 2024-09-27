@@ -26,7 +26,7 @@
     "build": "tsc -p ."
   },
   "dependencies": {
-    "file-type": "^19.3.0"
+    "file-type": "^19.5.0"
   },
   "devDependencies": {
     "@types/node": "^20.14.12",

@@ -1,3 +1,4 @@
 .idea
 */node_modules
-ts-commonjs/*.js
+ts-commonjs/**/*.js
+ts-esm/**/*.js
