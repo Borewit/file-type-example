@@ -45,6 +45,11 @@ is-stream@^4.0.1:
   resolved "https://registry.yarnpkg.com/is-stream/-/is-stream-4.0.1.tgz#375cf891e16d2e4baec250b85926cffc14720d9b"
   integrity sha512-Dnz92NInDqYckGEUJv689RbRiTSEHCQ7wOVeALbkOz999YpqT46yMRIGtSNl2iCL1waAZSx40+h59NV/EwzV/A==
 
+load-esm@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/load-esm/-/load-esm-0.1.0.tgz#f4901c37d51fdb93618977fb83ae2a9acd5cfdbc"
+  integrity sha512-9wBLOJHfeAXEHUbp7OqU5N3kqaLYnIwuW9GXH3mpvUDYL+3aO/WFUNLmS+sqsdt/B9IF1j+Z4YI6VwfEQs7wRA==
+
 peek-readable@^5.1.4:
   version "5.1.4"
   resolved "https://registry.yarnpkg.com/peek-readable/-/peek-readable-5.1.4.tgz#a5ae52f8770a602e7cc80867dd9f5cc5237c8508"
